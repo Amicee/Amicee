@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hola, puedes llamarme Amicee 👋
 
+<img src=./assets/IMG-20221221.png>
+
+Amante de la lectura y de la naturaleza, hombre de maíz.
+
+### 
 <!--
 **Amicee/Amicee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
